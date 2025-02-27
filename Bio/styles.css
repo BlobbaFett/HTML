@@ -1,0 +1,21 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap');
+*{
+  font-family:"Dancing Script"
+} 
+
+h1{
+  color:red;
+}
+.juan{
+  color:Purple
+}
+.juanito{
+  color:Green;
+  text-decoration:underline
+}
+.class-name{
+  color:Blue;
+  text-transform:uppercase;
+  font-size:1rem;
+}
