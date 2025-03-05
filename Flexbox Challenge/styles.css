@@ -1,0 +1,48 @@
+*{
+    font-family: sans-serif;
+    color: white;
+}
+li, .child{
+    background-color:rgb(77, 114, 152);
+    border-radius: 5px;
+    border: 2px solid rgb(119, 166, 182);
+    padding: 8px;
+}
+ul{
+    list-style: none;
+    padding: 0;
+}
+a{
+    text-decoration: none;
+}
+
+
+/*Challenge 1*/
+nav ul {
+    display: flex;
+    justify-content: space-between;
+}
+
+/*Challenge 2*/
+.challenge2{
+    display: flex;
+    gap: 6px;
+}
+
+.challenge2 li{
+    flex: 1;
+}
+
+/*Challenge 3*/
+.parent{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+/*Challenge 4*/
+.challenge4{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+}
