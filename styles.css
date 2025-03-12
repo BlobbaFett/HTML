@@ -24,9 +24,9 @@ h1{
   border: 50px black;
   text-decoration: none;
   padding: 8px;
+  font-size: 100%;
 }
 .super-juan{
   display: flex;
   gap: 8px;
-
 }
