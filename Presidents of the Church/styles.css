@@ -11,7 +11,7 @@ header {
 
 .super-billy{
     display: flex;
-    gap: 8;
+    gap: 10px;
     flex-wrap: wrap;
     
 }
